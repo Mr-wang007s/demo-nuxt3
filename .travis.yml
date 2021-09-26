@@ -10,6 +10,7 @@ branches:
   only:
     - main
     - master
+    - dev
 
 cache: yarn
 
